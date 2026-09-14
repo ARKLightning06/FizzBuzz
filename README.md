@@ -56,7 +56,7 @@ which enables basic typesetting when viewed while still being a plaintext format
 editing and version control.
 
 Below is a blank checkbox:
-- [ ] Put an X in the [ ] (with no spaces) to mark this as done!
+- [x] Put an X in the [ ] (with no spaces) to mark this as done!
 
 You can edit this file directly to check off these checkboxes throughout the lab to mark things as done.
 Do so now for the checkbox above.
@@ -78,7 +78,7 @@ and output exactly one of the following:
 * If `i` is divisible by 3 and 5, print the string `Fizz Buzz` (note the space)
 * Otherwise, print the value of `i`
 
-- [ ] Try a short game of Fizz Buzz with your team now.
+- [x] Try a short game of Fizz Buzz with your team now.
 
 ---
 <details>
